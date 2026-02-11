@@ -12,8 +12,6 @@ Everything you'll need to make one yourself!
 
 Alternative interactive BOM in `./ibom.html`
 
-0603 resistors and 0603 capacitors may be swapped out for 
-
 |   | References                         | Value              | Footprint                         | Quantity |
 |---|------------------------------------|--------------------|-----------------------------------|----------|
 | 1 | R1, R2, R3, R4, R5, R6, R7, R8, R9 | 10K                | 0603 (1608 Metric)                | 9        |
