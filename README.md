@@ -1,4 +1,16 @@
 # dual-rotary-encoder-breakout
 This is an open-source breakout PCB for the Bourns Inc. PEC11D-4120F-S0015 dual rotary encoder with switch.
 
+## Bill of Materials
+Everything you'll need to make one yourself!
+
+|   | References | Value | Footprint | Quantity |
+|---|------------|-------|-----------|----------|
+| 1 | R1, R2, R3, R4, R5, R6, R7, R8, R9 | 10K | 0603 (1608 Metric) | 9
+| 2 | C1, C2, C3, C4 | 0.01u | 0603 (1608 Metric) | 4
+| 3 | S1 | PEC11D-4120F-S0015 | PEC11D-4120F-S0015 Rotary Encoder | 1
+| 4 | J3 | PINHD_1x7_Male | 2.54mm pitch header | 1
+
+## 3D Render
+
 ![preview-3d](https://github.com/user-attachments/assets/9e8ff5df-3afc-4efa-b591-1b52379d8451)
