@@ -1,13 +1,15 @@
 # dual-rotary-encoder-breakout
 This is an open-source breakout PCB for the Bourns Inc. PEC11D-4120F-S0015 dual rotary encoder with switch.
 
-This was made in KiCad 9.0
+This was made in KiCad 9.0.
 
 All hardware and associated files are under the CERN Open Hardware Licence Version 2 - Permissive license.
+
 All software and associated files are under the MIT license.
 
 ## Bill of Materials
 Everything you'll need to make one yourself!
+
 Alternative interactive BOM in `./ibom.html`
 
 0603 resistors and 0603 capacitors may be swapped out for 
@@ -23,7 +25,7 @@ Alternative interactive BOM in `./ibom.html`
 
 I used [Mike Teachman's micropython-rotary library](https://github.com/miketeachman/micropython-rotary) for some micropython code to run on a Raspberry Pi Pico.
 
-You can find it in `./software`.
+You can find example code in `./software`. Be sure to use the latest version of Mike's library.
 
 ## 3D Render
 
